@@ -10,4 +10,8 @@
 </p>
 
 
-<p><h3 align="left">Teamcenter Consultant  <img src="tc_icon.png" alt="image" width="40" height="40"/> </h3> </p>
+<p align="left">
+  <h3>Teamcenter Consultant <img src="tc_icon.png" alt="image" width="40" height="40" style="vertical-align: middle; margin-left: 10px;"/>
+</h3>
+</p>
+
